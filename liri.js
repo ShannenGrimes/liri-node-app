@@ -3,9 +3,12 @@ require("dotenv").config();
 // Variables
 var request = require("request");
 var fs = require("fs");
-var keys = require("./keys");
+var keys = require("./keys.js");
 var spotify = require("node-spotify-api");
 var spotify = new spotify(keys.spotify);
+var moment = require("moment");
+moment().format();
+var axios = require("axios");
 // User input
 var userOptions = process.argv[2];
 var inputParam = process.argv[3];
@@ -25,7 +28,7 @@ function userInput(userOptions, inputParam) {
       showMovie(inputParam);
       break;
     case "do-what-it-says":
-      showWhat();
+      showSomeInfo();
       break;
     default:
       console.log(
@@ -35,13 +38,15 @@ function userInput(userOptions, inputParam) {
 }
 
 // Bands in Town
-function showConcertInfo(inputParam) {
-  var URL =
+function showConcert(inputParam) {
+  var queryURL = (
     "https://rest.bandsintown.com/artists/" +
-    artist +
-    "/events?app_id=codingbootcamp";
-  request(URL, function(err, response, body) {
+      inputParam +
+      "/events?app_id=codingbootcamp"
+  );
+  request(queryURL, function(err, response, body) {
     if (!err && response.statusCode === 200) {
+
       var concerts = JSON.parse(body);
       for (var i = 0; i < concerts.length; i++) {
         console.log("-----VENUE INFO-----");
@@ -133,8 +138,8 @@ function showMovie(inputParam) {
   }
   var queryUrl =
     "http://www.omdbapi.com/?t=" + inputParam + "&y=&plot=short&apikey=trilogy";
-  request(queryUrl, function(error, response, body) {
-    if (!error && response.statusCode === 200) {
+  request(queryUrl, function(err, response, body) {
+    if (!err && response.statusCode === 200) {
       var movies = JSON.parse(body);
       console.log("-----MOVIE INFO-----");
       fs.appendFileSync("log.txt", "-----MOVIE INFO-----\n");
@@ -165,28 +170,28 @@ function showMovie(inputParam) {
       console.log("----------");
       fs.appendFileSync("log.txt", "----------\n");
     } else {
-      console.log("Error occurred.");
+      console.log("err occurred.");
     }
   });
 }
 // Rotten Tomatoes Rating
-function getRottenTomatoesRatingObject (data) {
-  return data.Ratings.find(function (item) {
-     return item.Source === "Rotten Tomatoes";
+function getRottenTomatoesRatingObject(data) {
+  return data.Ratings.find(function(item) {
+    return item.Source === "Rotten Tomatoes";
   });
 }
 
-function getRottenTomatoesRatingValue (data) {
+function getRottenTomatoesRatingValue(data) {
   return getRottenTomatoesRatingObject(data).Value;
 }
 
 // Reading from random.txt file
-function showSomeInfo(){
-	fs.readFile('random.txt', 'utf8', function(err, data){
-		if (err){ 
-			return console.log(err);
-		}
-        var dataArr = data.split(',');
-        UserInputs(dataArr[0], dataArr[1]);
-	});
+function showSomeInfo() {
+  fs.readFile("random.txt", "utf8", function(err, data) {
+    if (err) {
+      return console.log(err);
+    }
+    var dataArr = data.split(",");
+    UserInput(dataArr[1]);
+  });
 }

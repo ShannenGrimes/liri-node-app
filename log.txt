@@ -1,0 +1,455 @@
+-----SONG INFO-----
+0
+artist(s): Rihanna
+song name: Desperado
+preview song: null
+album: ANTI (Deluxe)
+----------
+-----SONG INFO-----
+1
+artist(s): Eagles
+song name: Desperado - 2013 Remaster
+preview song: https://p.scdn.co/mp3-preview/267a9470dbe63d8a229d898b4db4cdf83118ff22?cid=45c3c3c3db564a2986865e85e938f05d
+album: Desperado (2013 Remaster)
+----------
+-----SONG INFO-----
+2
+artist(s): Eagles
+song name: Tequila Sunrise - 2013 Remaster
+preview song: https://p.scdn.co/mp3-preview/dd0213cff3de901d4141f1a8f5c516c81f90161f?cid=45c3c3c3db564a2986865e85e938f05d
+album: Desperado (2013 Remaster)
+----------
+-----SONG INFO-----
+3
+artist(s): Mac Miller
+song name: Desperado
+preview song: https://p.scdn.co/mp3-preview/cf5988851badbdbf4e445eb53df84f1a17310d41?cid=45c3c3c3db564a2986865e85e938f05d
+album: Macadelic (Remastered Edition)
+----------
+-----SONG INFO-----
+4
+artist(s): Linda Ronstadt
+song name: Desperado
+preview song: https://p.scdn.co/mp3-preview/4ef582ebf82acd773e179c19b24bc016363f41c6?cid=45c3c3c3db564a2986865e85e938f05d
+album: Don't Cry Now
+----------
+-----SONG INFO-----
+5
+artist(s): Beast Coast
+song name: Desperado (feat. Meechy Darko, Zombie Juice & Kirk Knight)
+preview song: https://p.scdn.co/mp3-preview/d7aa2f8df90df7abb35a05ddcfb9ed496def100c?cid=45c3c3c3db564a2986865e85e938f05d
+album: Escape From New York
+----------
+-----SONG INFO-----
+6
+artist(s): Eagles
+song name: Desperado - 2013 Remaster
+preview song: https://p.scdn.co/mp3-preview/267a9470dbe63d8a229d898b4db4cdf83118ff22?cid=45c3c3c3db564a2986865e85e938f05d
+album: The Very Best of the Eagles (2013 Remaster)
+----------
+-----SONG INFO-----
+7
+artist(s): Johnny Cash
+song name: Desperado
+preview song: null
+album: American IV: The Man Comes Around
+----------
+-----SONG INFO-----
+8
+artist(s): Eagles
+song name: Doolin-Dalton - 2013 Remaster
+preview song: https://p.scdn.co/mp3-preview/b5c365796ba759cb62fe2f59673bd9924f97963e?cid=45c3c3c3db564a2986865e85e938f05d
+album: Desperado (2013 Remaster)
+----------
+-----SONG INFO-----
+9
+artist(s): Isaac Moore
+song name: Desperado
+preview song: https://p.scdn.co/mp3-preview/48edb7ba00a347f5df6206266253086ac50df3e7?cid=45c3c3c3db564a2986865e85e938f05d
+album: Desert Songs
+----------
+-----SONG INFO-----
+10
+artist(s): Clint Black
+song name: Desperado - (Live)
+preview song: https://p.scdn.co/mp3-preview/ea889e4aff6c649971f15d1cbcb932e8a5020195?cid=45c3c3c3db564a2986865e85e938f05d
+album: Greatest Hits
+----------
+-----SONG INFO-----
+11
+artist(s): Eagles
+song name: Desperado - 2013 Remaster
+preview song: https://p.scdn.co/mp3-preview/267a9470dbe63d8a229d898b4db4cdf83118ff22?cid=45c3c3c3db564a2986865e85e938f05d
+album: Their Greatest Hits 1971-1975 (2013 Remaster)
+----------
+-----SONG INFO-----
+12
+artist(s): Eagles
+song name: Outlaw Man - 2013 Remaster
+preview song: https://p.scdn.co/mp3-preview/f524885587fc11b590ddfd851fdcd353a3c7b9b3?cid=45c3c3c3db564a2986865e85e938f05d
+album: Desperado (2013 Remaster)
+----------
+-----SONG INFO-----
+13
+artist(s): Rihanna
+song name: Desperado
+preview song: null
+album: ANTI
+----------
+-----SONG INFO-----
+14
+artist(s): CRUCIFIX
+song name: My Way
+preview song: https://p.scdn.co/mp3-preview/156c7e1b034d960c1f8a919a6102b1511a22077f?cid=45c3c3c3db564a2986865e85e938f05d
+album: Desperado
+----------
+-----SONG INFO-----
+15
+artist(s): CRUCIFIX
+song name: Georgia Rain
+preview song: https://p.scdn.co/mp3-preview/fcbca6410b8524b21c4d387934525cc6aebe0719?cid=45c3c3c3db564a2986865e85e938f05d
+album: Desperado
+----------
+-----SONG INFO-----
+16
+artist(s): The Cactus Blossoms
+song name: Desperado
+preview song: https://p.scdn.co/mp3-preview/aaf6c4a2d46480744573ec39b9a2419ef9b9e081?cid=45c3c3c3db564a2986865e85e938f05d
+album: Easy Way
+----------
+-----SONG INFO-----
+17
+artist(s): Elijah Akeem
+song name: Desperado
+preview song: https://p.scdn.co/mp3-preview/919bf11069813080b4f09500b2c554629de72266?cid=45c3c3c3db564a2986865e85e938f05d
+album: Midnight Masquerade
+----------
+-----SONG INFO-----
+18
+artist(s): Me First and the Gimme Gimmes
+song name: Desperado
+preview song: https://p.scdn.co/mp3-preview/a716fa9e2abf3b2c3b70cd4ae70beefbe0a2574e?cid=45c3c3c3db564a2986865e85e938f05d
+album: Love Their Country
+----------
+-----SONG INFO-----
+19
+artist(s): Eagles
+song name: Desperado - Live
+preview song: https://p.scdn.co/mp3-preview/1358119e88e834273968f5e87096258e287b61d1?cid=45c3c3c3db564a2986865e85e938f05d
+album: Eagles Live
+----------
+----------
+If you haven't watched 'Mr. Nobody,' then you should: http://www.imdb.com/title/tt0485947/
+It's on Netflix!
+-----MOVIE INFO-----
+Title: Mr. Nobody
+Release Year: 2009
+IMDB Rating: 7.8
+Rotten Tomatoes Rating: 67%
+Country of Production: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+----------
+-----SONG INFO-----
+0
+artist(s): Rihanna
+song name: Desperado
+preview song: null
+album: ANTI (Deluxe)
+----------
+-----SONG INFO-----
+1
+artist(s): Eagles
+song name: Desperado - 2013 Remaster
+preview song: https://p.scdn.co/mp3-preview/267a9470dbe63d8a229d898b4db4cdf83118ff22?cid=45c3c3c3db564a2986865e85e938f05d
+album: Desperado (2013 Remaster)
+----------
+-----SONG INFO-----
+2
+artist(s): Eagles
+song name: Tequila Sunrise - 2013 Remaster
+preview song: https://p.scdn.co/mp3-preview/dd0213cff3de901d4141f1a8f5c516c81f90161f?cid=45c3c3c3db564a2986865e85e938f05d
+album: Desperado (2013 Remaster)
+----------
+-----SONG INFO-----
+3
+artist(s): Mac Miller
+song name: Desperado
+preview song: https://p.scdn.co/mp3-preview/cf5988851badbdbf4e445eb53df84f1a17310d41?cid=45c3c3c3db564a2986865e85e938f05d
+album: Macadelic (Remastered Edition)
+----------
+-----SONG INFO-----
+4
+artist(s): Linda Ronstadt
+song name: Desperado
+preview song: https://p.scdn.co/mp3-preview/4ef582ebf82acd773e179c19b24bc016363f41c6?cid=45c3c3c3db564a2986865e85e938f05d
+album: Don't Cry Now
+----------
+-----SONG INFO-----
+5
+artist(s): Beast Coast
+song name: Desperado (feat. Meechy Darko, Zombie Juice & Kirk Knight)
+preview song: https://p.scdn.co/mp3-preview/d7aa2f8df90df7abb35a05ddcfb9ed496def100c?cid=45c3c3c3db564a2986865e85e938f05d
+album: Escape From New York
+----------
+-----SONG INFO-----
+6
+artist(s): Eagles
+song name: Desperado - 2013 Remaster
+preview song: https://p.scdn.co/mp3-preview/267a9470dbe63d8a229d898b4db4cdf83118ff22?cid=45c3c3c3db564a2986865e85e938f05d
+album: The Very Best of the Eagles (2013 Remaster)
+----------
+-----SONG INFO-----
+7
+artist(s): Johnny Cash
+song name: Desperado
+preview song: null
+album: American IV: The Man Comes Around
+----------
+-----SONG INFO-----
+8
+artist(s): Eagles
+song name: Doolin-Dalton - 2013 Remaster
+preview song: https://p.scdn.co/mp3-preview/b5c365796ba759cb62fe2f59673bd9924f97963e?cid=45c3c3c3db564a2986865e85e938f05d
+album: Desperado (2013 Remaster)
+----------
+-----SONG INFO-----
+9
+artist(s): Isaac Moore
+song name: Desperado
+preview song: https://p.scdn.co/mp3-preview/48edb7ba00a347f5df6206266253086ac50df3e7?cid=45c3c3c3db564a2986865e85e938f05d
+album: Desert Songs
+----------
+-----SONG INFO-----
+10
+artist(s): Clint Black
+song name: Desperado - (Live)
+preview song: https://p.scdn.co/mp3-preview/ea889e4aff6c649971f15d1cbcb932e8a5020195?cid=45c3c3c3db564a2986865e85e938f05d
+album: Greatest Hits
+----------
+-----SONG INFO-----
+11
+artist(s): Eagles
+song name: Desperado - 2013 Remaster
+preview song: https://p.scdn.co/mp3-preview/267a9470dbe63d8a229d898b4db4cdf83118ff22?cid=45c3c3c3db564a2986865e85e938f05d
+album: Their Greatest Hits 1971-1975 (2013 Remaster)
+----------
+-----SONG INFO-----
+12
+artist(s): Eagles
+song name: Outlaw Man - 2013 Remaster
+preview song: https://p.scdn.co/mp3-preview/f524885587fc11b590ddfd851fdcd353a3c7b9b3?cid=45c3c3c3db564a2986865e85e938f05d
+album: Desperado (2013 Remaster)
+----------
+-----SONG INFO-----
+13
+artist(s): Rihanna
+song name: Desperado
+preview song: null
+album: ANTI
+----------
+-----SONG INFO-----
+14
+artist(s): CRUCIFIX
+song name: My Way
+preview song: https://p.scdn.co/mp3-preview/156c7e1b034d960c1f8a919a6102b1511a22077f?cid=45c3c3c3db564a2986865e85e938f05d
+album: Desperado
+----------
+-----SONG INFO-----
+15
+artist(s): CRUCIFIX
+song name: Georgia Rain
+preview song: https://p.scdn.co/mp3-preview/fcbca6410b8524b21c4d387934525cc6aebe0719?cid=45c3c3c3db564a2986865e85e938f05d
+album: Desperado
+----------
+-----SONG INFO-----
+16
+artist(s): The Cactus Blossoms
+song name: Desperado
+preview song: https://p.scdn.co/mp3-preview/aaf6c4a2d46480744573ec39b9a2419ef9b9e081?cid=45c3c3c3db564a2986865e85e938f05d
+album: Easy Way
+----------
+-----SONG INFO-----
+17
+artist(s): Elijah Akeem
+song name: Desperado
+preview song: https://p.scdn.co/mp3-preview/919bf11069813080b4f09500b2c554629de72266?cid=45c3c3c3db564a2986865e85e938f05d
+album: Midnight Masquerade
+----------
+-----SONG INFO-----
+18
+artist(s): Me First and the Gimme Gimmes
+song name: Desperado
+preview song: https://p.scdn.co/mp3-preview/a716fa9e2abf3b2c3b70cd4ae70beefbe0a2574e?cid=45c3c3c3db564a2986865e85e938f05d
+album: Love Their Country
+----------
+-----SONG INFO-----
+19
+artist(s): Eagles
+song name: Desperado - Live
+preview song: https://p.scdn.co/mp3-preview/1358119e88e834273968f5e87096258e287b61d1?cid=45c3c3c3db564a2986865e85e938f05d
+album: Eagles Live
+----------
+-----MOVIE INFO-----
+Title: The Goonies
+Release Year: 1985
+IMDB Rating: 7.8
+Rotten Tomatoes Rating: 71%
+Country of Production: USA
+Language: English, Spanish, Cantonese, Italian
+Plot: A group of young misfits who call themselves The Goonies discover an ancient map and set out on a quest to find a legendary pirate's long-lost treasure.
+Actors: Sean Astin, Josh Brolin, Jeff Cohen, Corey Feldman
+----------
+-----SONG INFO-----
+0
+artist(s): Rihanna
+song name: Desperado
+preview song: null
+album: ANTI (Deluxe)
+----------
+-----SONG INFO-----
+1
+artist(s): Eagles
+song name: Desperado - 2013 Remaster
+preview song: https://p.scdn.co/mp3-preview/267a9470dbe63d8a229d898b4db4cdf83118ff22?cid=45c3c3c3db564a2986865e85e938f05d
+album: Desperado (2013 Remaster)
+----------
+-----SONG INFO-----
+2
+artist(s): Eagles
+song name: Tequila Sunrise - 2013 Remaster
+preview song: https://p.scdn.co/mp3-preview/dd0213cff3de901d4141f1a8f5c516c81f90161f?cid=45c3c3c3db564a2986865e85e938f05d
+album: Desperado (2013 Remaster)
+----------
+-----SONG INFO-----
+3
+artist(s): Mac Miller
+song name: Desperado
+preview song: https://p.scdn.co/mp3-preview/cf5988851badbdbf4e445eb53df84f1a17310d41?cid=45c3c3c3db564a2986865e85e938f05d
+album: Macadelic (Remastered Edition)
+----------
+-----SONG INFO-----
+4
+artist(s): Linda Ronstadt
+song name: Desperado
+preview song: https://p.scdn.co/mp3-preview/4ef582ebf82acd773e179c19b24bc016363f41c6?cid=45c3c3c3db564a2986865e85e938f05d
+album: Don't Cry Now
+----------
+-----SONG INFO-----
+5
+artist(s): Beast Coast
+song name: Desperado (feat. Meechy Darko, Zombie Juice & Kirk Knight)
+preview song: https://p.scdn.co/mp3-preview/d7aa2f8df90df7abb35a05ddcfb9ed496def100c?cid=45c3c3c3db564a2986865e85e938f05d
+album: Escape From New York
+----------
+-----SONG INFO-----
+6
+artist(s): Eagles
+song name: Desperado - 2013 Remaster
+preview song: https://p.scdn.co/mp3-preview/267a9470dbe63d8a229d898b4db4cdf83118ff22?cid=45c3c3c3db564a2986865e85e938f05d
+album: The Very Best of the Eagles (2013 Remaster)
+----------
+-----SONG INFO-----
+7
+artist(s): Johnny Cash
+song name: Desperado
+preview song: null
+album: American IV: The Man Comes Around
+----------
+-----SONG INFO-----
+8
+artist(s): Eagles
+song name: Doolin-Dalton - 2013 Remaster
+preview song: https://p.scdn.co/mp3-preview/b5c365796ba759cb62fe2f59673bd9924f97963e?cid=45c3c3c3db564a2986865e85e938f05d
+album: Desperado (2013 Remaster)
+----------
+-----SONG INFO-----
+9
+artist(s): Isaac Moore
+song name: Desperado
+preview song: https://p.scdn.co/mp3-preview/48edb7ba00a347f5df6206266253086ac50df3e7?cid=45c3c3c3db564a2986865e85e938f05d
+album: Desert Songs
+----------
+-----SONG INFO-----
+10
+artist(s): Clint Black
+song name: Desperado - (Live)
+preview song: https://p.scdn.co/mp3-preview/ea889e4aff6c649971f15d1cbcb932e8a5020195?cid=45c3c3c3db564a2986865e85e938f05d
+album: Greatest Hits
+----------
+-----SONG INFO-----
+11
+artist(s): Eagles
+song name: Desperado - 2013 Remaster
+preview song: https://p.scdn.co/mp3-preview/267a9470dbe63d8a229d898b4db4cdf83118ff22?cid=45c3c3c3db564a2986865e85e938f05d
+album: Their Greatest Hits 1971-1975 (2013 Remaster)
+----------
+-----SONG INFO-----
+12
+artist(s): Eagles
+song name: Outlaw Man - 2013 Remaster
+preview song: https://p.scdn.co/mp3-preview/f524885587fc11b590ddfd851fdcd353a3c7b9b3?cid=45c3c3c3db564a2986865e85e938f05d
+album: Desperado (2013 Remaster)
+----------
+-----SONG INFO-----
+13
+artist(s): Rihanna
+song name: Desperado
+preview song: null
+album: ANTI
+----------
+-----SONG INFO-----
+14
+artist(s): CRUCIFIX
+song name: My Way
+preview song: https://p.scdn.co/mp3-preview/156c7e1b034d960c1f8a919a6102b1511a22077f?cid=45c3c3c3db564a2986865e85e938f05d
+album: Desperado
+----------
+-----SONG INFO-----
+15
+artist(s): CRUCIFIX
+song name: Georgia Rain
+preview song: https://p.scdn.co/mp3-preview/fcbca6410b8524b21c4d387934525cc6aebe0719?cid=45c3c3c3db564a2986865e85e938f05d
+album: Desperado
+----------
+-----SONG INFO-----
+16
+artist(s): The Cactus Blossoms
+song name: Desperado
+preview song: https://p.scdn.co/mp3-preview/aaf6c4a2d46480744573ec39b9a2419ef9b9e081?cid=45c3c3c3db564a2986865e85e938f05d
+album: Easy Way
+----------
+-----SONG INFO-----
+17
+artist(s): Elijah Akeem
+song name: Desperado
+preview song: https://p.scdn.co/mp3-preview/919bf11069813080b4f09500b2c554629de72266?cid=45c3c3c3db564a2986865e85e938f05d
+album: Midnight Masquerade
+----------
+-----SONG INFO-----
+18
+artist(s): Me First and the Gimme Gimmes
+song name: Desperado
+preview song: https://p.scdn.co/mp3-preview/a716fa9e2abf3b2c3b70cd4ae70beefbe0a2574e?cid=45c3c3c3db564a2986865e85e938f05d
+album: Love Their Country
+----------
+-----SONG INFO-----
+19
+artist(s): Eagles
+song name: Desperado - Live
+preview song: https://p.scdn.co/mp3-preview/1358119e88e834273968f5e87096258e287b61d1?cid=45c3c3c3db564a2986865e85e938f05d
+album: Eagles Live
+----------
+Name of the Venue: Subterranean (Downstairs)
+Venue Location: Chicago
+Date of the Event: 2020-01-18T19:00:00
+----------
+Name of the Venue: Beat Kitchen
+Venue Location: Chicago
+Date of the Event: 2020-02-08T21:00:00
+----------
+Name of the Venue: Polígono Industrial Benieto
+Venue Location: Gandia
+Date of the Event: 2020-07-16T19:00:00
+----------
