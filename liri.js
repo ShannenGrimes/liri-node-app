@@ -28,7 +28,7 @@ function userInput(userOptions, inputParam) {
       showMovie(inputParam);
       break;
     case "do-what-it-says":
-      showSomeInfo();
+      showSomeInfo(inputParam);
       break;
     default:
       console.log(
