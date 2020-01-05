@@ -74,7 +74,7 @@ LIRI is a Language Interpretation and Recognition Interface.  Liri-node-app is s
 7.  Screencast O-Matic
 8.  Band in Town Events API
 9.  Rotten Tomatoes for movie ratings
-10. Imgflip got gif creation
+10. Imgflip for gif creation
 
 
 
