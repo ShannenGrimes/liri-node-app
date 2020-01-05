@@ -28,7 +28,7 @@ function userInput(userOptions, inputParam) {
       showMovie(inputParam);
       break;
     case "do-what-it-says":
-      showSomeInfo(inputParam);
+      doWhatItSays();
       break;
     default:
       console.log(
@@ -39,14 +39,12 @@ function userInput(userOptions, inputParam) {
 
 // Bands in Town
 function showConcert(inputParam) {
-  var queryURL = (
+  var queryURL =
     "https://rest.bandsintown.com/artists/" +
-      inputParam +
-      "/events?app_id=codingbootcamp"
-  );
+    inputParam +
+    "/events?app_id=codingbootcamp";
   request(queryURL, function(err, response, body) {
     if (!err && response.statusCode === 200) {
-
       var concerts = JSON.parse(body);
       for (var i = 0; i < concerts.length; i++) {
         console.log("-----VENUE INFO-----");
@@ -186,12 +184,10 @@ function getRottenTomatoesRatingValue(data) {
 }
 
 // Reading from random.txt file
-function showSomeInfo() {
+function doWhatItSays() {
   fs.readFile("random.txt", "utf8", function(err, data) {
-    if (err) {
-      return console.log(err);
-    }
-    var dataArr = data.split(",");
-    UserInput(dataArr[1]);
+    console.log(data)
+    var dataArr = data.split(",")
+    userInput(dataArr[0], dataArr[1]);
   });
 }

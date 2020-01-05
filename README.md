@@ -41,11 +41,39 @@ LIRI is a Language Interpretation and Recognition Interface.  Liri-node-app is s
 
 ## Command Line - Output Examples
 ### `concert-this`
-`node liri.js concert-this <name of artist or band>`
+### `node liri.js concert-this <name of artist or band>`
 -
 **Output**: A list of events and locations where the band is performing
 ![Results](/assets/images/concert-this-metallica.png)
-
+-
+### `spotify-this-song`
+### `node liri.js spotify-this-song <name of song>`
+-
+**Output**: A list of artists that performs the song that was searched, along with album details
+![Results](/assets/images/spotify-this-song-sugar.png)
+-
+### `movie-this`
+### `node liri.js movie-this <name of movie>`
+-
+**Output**: Information about the movie will be displayed
+![Results](/assets/images/movie-this-goonies.png)
+-
+### `do-what-it-says`
+### `node liri.js do-what-it-says`
+-
+**Output**: Information from the random.txt file will be displayed and the associated command will be run
+![Results](/assets/images/do-what-it-says.png)
+- - -
+## Technologies Used
+-Node.js
+-Axios
+-Javascript
+-OMDB API
+-Spotify
+-YouTube
+-Screencast O-Matic
+-Band in Town Events API
+-Rotten Tomatoes for movie ratings
 
 
 
