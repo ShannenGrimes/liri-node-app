@@ -7,14 +7,16 @@ Liri-node-app is similar to iPhone SIRI.  This application is not voice driven, 
 ## Setup
 
 1.  Clone the repository
-        `npm install`
 2.  Run npm install to install the following packages:
-..3.  | Module        | Descr         | Link                                                            |
-      | ------------- |:-------------:| -----:                                                          |
-      | Spotify       | right-aligned | [Spotify](https://developer.spotify.com/documentation/web-api/) |
-      | Moments       | centered      | [Moments](https://momentjs.com/docs/)                           |
-      | Axios         | are neat      | [Axios](https://www.npmjs.com/package/axios)                    |
-      | Dotenv        | are neat      | [Dotenv](https://www.npmjs.com/package/dotenv)                  |
+
+      *`npm install`
+      *| Module        | Descr                        | Link                                                            |
+      *| ------------- |:-------------:               | -----:                                                          |
+      *| Spotify       | Music search                 | [Spotify](https://developer.spotify.com/documentation/web-api/) |
+      *| Moment        | Formats Dates & Numbers      | [Moments](https://momentjs.com/docs/)                           |
+      *| Axios         | Supports Promise App         | [Axios](https://www.npmjs.com/package/axios)                    |
+      *| Dotenv        | Zero-dependency app          | [Dotenv](https://www.npmjs.com/package/dotenv)                  |
+
 
 
 ## Example of working application
