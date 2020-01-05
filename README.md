@@ -65,15 +65,15 @@ LIRI is a Language Interpretation and Recognition Interface.  Liri-node-app is s
 ![Results](/assets/images/do-what-it-says.png)
 - - -
 ## Technologies Used
--Node.js
--Axios
--Javascript
--OMDB API
--Spotify
--YouTube
--Screencast O-Matic
--Band in Town Events API
--Rotten Tomatoes for movie ratings
+1. Node.js
+2. Axios
+3. Javascript
+4. OMDB API
+5. Spotify
+6. YouTube
+7. Screencast O-Matic
+8. Band in Town Events API
+9. Rotten Tomatoes for movie ratings
 
 
 
