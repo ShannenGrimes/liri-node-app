@@ -19,14 +19,15 @@ LIRI is a Language Interpretation and Recognition Interface.  Liri-node-app is s
 
 ## Video of Liri working
 ![](https://j.gifs.com/wVxJlg.gif)
-[Youtube:](https://www.youtube.com/watch?v=XIsz4uQGeUQ)
+[Click Here to Watch Video on YouTube](https://www.youtube.com/watch?v=XIsz4uQGeUQ)
 
 ## Setup
 
 1.  Clone the repository
 2.  Run npm install to install the following packages:
 
-      ..*`npm install`
+      *`npm install`
+      - -
       -| Module        | Descr                        | Link                                                            |
       -| ------------- |:-------------:               | -----:                                                          |
       -| Spotify       | Music search                 | [Spotify](https://developer.spotify.com/documentation/web-api/) |
