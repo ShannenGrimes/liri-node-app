@@ -26,7 +26,7 @@ LIRI is a Language Interpretation and Recognition Interface.  Liri-node-app is s
 1.  Clone the repository.
 2.  Run npm install to install the following packages:
 
-      `npm install`
+      ###`npm install`
       - 
       | Module        | Descr                        | Link                                                            |
       | ------------- |:-------------:               | -----:                                                          |
@@ -42,6 +42,7 @@ LIRI is a Language Interpretation and Recognition Interface.  Liri-node-app is s
 ## Command Line - Output Examples
 ### `concert-this`
 `node liri.js concert-this <name of artist or band>`
+-
 **Output**: A list of events and locations where the band is performing
 ![Results](/assets/images/concert-this-metallica.png)
 
