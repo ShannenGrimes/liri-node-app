@@ -23,17 +23,27 @@ LIRI is a Language Interpretation and Recognition Interface.  Liri-node-app is s
 
 ## Setup
 
-1.  Clone the repository
+1.  Clone the repository.
 2.  Run npm install to install the following packages:
 
-      *`npm install`
-      - -
+      `npm install`
+      - 
       | Module        | Descr                        | Link                                                            |
       | ------------- |:-------------:               | -----:                                                          |
       | Spotify       | Music search                 | [Spotify](https://developer.spotify.com/documentation/web-api/) |
       | Moment        | Formats Dates & Numbers      | [Moments](https://momentjs.com/docs/)                           |
       | Axios         | Supports Promise App         | [Axios](https://www.npmjs.com/package/axios)                    |
       | Dotenv        | Zero-dependency app          | [Dotenv](https://www.npmjs.com/package/dotenv)                  |
+
+3. Open the `liri.js` file.
+4. Outputs vary, according to user input parameters.
+5. Results will popluate in the command line and search results are saved to the `log.txt` file.
+
+## Command Line - Output Examples
+### `concert-this`
+`node liri.js concert-this <name of artist or band>`
+**Output**: A list of events and locations where the band is performing
+![Results](/assets/images/concert-this-metallica.png)
 
 
 

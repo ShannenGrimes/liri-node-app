@@ -1219,3 +1219,71 @@ Language: English, Spanish, Cantonese, Italian
 Plot: A group of young misfits who call themselves The Goonies discover an ancient map and set out on a quest to find a legendary pirate's long-lost treasure.
 Actors: Sean Astin, Josh Brolin, Jeff Cohen, Corey Feldman
 ----------
+Name of the Venue: ｕｍｅｄａ　ＴＲＡＤ（旧　ｕｍｅｄａ　ＡＫＡＳＯ）
+Venue Location: 大阪市
+Date of the Event: 2020-03-16T19:00:00
+----------
+Name of the Venue: Estadio Nacional Julio Martínez Prádanos
+Venue Location: Ñuñoa
+Date of the Event: 2020-04-15T20:00:00
+----------
+Name of the Venue: Argentine Polo Association
+Venue Location: Bwp
+Date of the Event: 2020-04-18T20:00:00
+----------
+Name of the Venue: Arena do Grêmio
+Venue Location: Porto Alegre
+Date of the Event: 2020-04-21T20:00:00
+----------
+Name of the Venue: Couto Pereira Stadium
+Venue Location: Curitiba
+Date of the Event: 2020-04-23T20:00:00
+----------
+Name of the Venue: Casa da Fazenda Morumbi
+Venue Location: São Paulo
+Date of the Event: 2020-04-25T20:00:00
+----------
+Name of the Venue: Mineirão
+Venue Location: Belo Horizonte
+Date of the Event: 2020-04-27T20:00:00
+----------
+Name of the Venue: Charlotte Motor Speedway
+Venue Location: Concord
+Date of the Event: 2020-05-01T19:00:00
+----------
+Name of the Venue: Charlotte Motor Speedway
+Venue Location: Concord
+Date of the Event: 2020-05-03T23:00:00
+----------
+Name of the Venue: Daytona International Speedway
+Venue Location: Daytona Beach
+Date of the Event: 2020-05-08T19:00:00
+----------
+Name of the Venue: Daytona International Speedway
+Venue Location: Daytona Beach
+Date of the Event: 2020-05-10T23:00:00
+----------
+Name of the Venue: MAPFRE Stadium
+Venue Location: Columbus
+Date of the Event: 2020-05-15T19:00:00
+----------
+Name of the Venue: MAPFRE Stadium
+Venue Location: Columbus
+Date of the Event: 2020-05-17T19:00:00
+----------
+Name of the Venue: Kentucky Kingdom
+Venue Location: Louisville
+Date of the Event: 2020-09-18T19:00:00
+----------
+Name of the Venue: Kentucky Kingdom
+Venue Location: Louisville
+Date of the Event: 2020-09-20T19:00:00
+----------
+Name of the Venue: Discovery Park
+Venue Location: Sacramento
+Date of the Event: 2020-10-09T19:00:00
+----------
+Name of the Venue: Discovery Park
+Venue Location: Sacramento
+Date of the Event: 2020-10-11T23:00:00
+----------
