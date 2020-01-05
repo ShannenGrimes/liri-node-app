@@ -26,7 +26,7 @@ LIRI is a Language Interpretation and Recognition Interface.  Liri-node-app is s
 1.  Clone the repository.
 2.  Run npm install to install the following packages:
 
-      ###`npm install`
+      ### `npm install`
       - 
       | Module        | Descr                        | Link                                                            |
       | ------------- |:-------------:               | -----:                                                          |
