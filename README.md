@@ -14,4 +14,6 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 example 3
 <div style='position:relative;padding-bottom:52.055%;'><iframe src="//gifs.com/embed/liri-node-bot-wVxJlg" frameborder="0" scrolling="no" width="1022" height="532" style="backface-visibility: hidden; transform: scale(1); position: absolute; height: 100%; width: 100%;"></iframe></div>
 
+[![Build Status](https://travis-ci.org/sebasoga/giphy.png?branch=master)] (https://j.gifs.com/wVxJlg.gif)
+
 
