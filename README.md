@@ -28,12 +28,12 @@ LIRI is a Language Interpretation and Recognition Interface.  Liri-node-app is s
 
       *`npm install`
       - -
-      -| Module        | Descr                        | Link                                                            |
-      -| ------------- |:-------------:               | -----:                                                          |
-      -| Spotify       | Music search                 | [Spotify](https://developer.spotify.com/documentation/web-api/) |
-      -| Moment        | Formats Dates & Numbers      | [Moments](https://momentjs.com/docs/)                           |
-      -| Axios         | Supports Promise App         | [Axios](https://www.npmjs.com/package/axios)                    |
-      -| Dotenv        | Zero-dependency app          | [Dotenv](https://www.npmjs.com/package/dotenv)                  |
+      | Module        | Descr                        | Link                                                            |
+      | ------------- |:-------------:               | -----:                                                          |
+      | Spotify       | Music search                 | [Spotify](https://developer.spotify.com/documentation/web-api/) |
+      | Moment        | Formats Dates & Numbers      | [Moments](https://momentjs.com/docs/)                           |
+      | Axios         | Supports Promise App         | [Axios](https://www.npmjs.com/package/axios)                    |
+      | Dotenv        | Zero-dependency app          | [Dotenv](https://www.npmjs.com/package/dotenv)                  |
 
 
 
